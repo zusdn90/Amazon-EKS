@@ -26,6 +26,10 @@
 7. AWS Fargate로 서비스 올리기
 8. CI/CD 파이프라인 구축
 
+# 아키텍처
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/15190903/171774434-f79fc71c-d193-4389-ad59-8ea8b3a58b37.png">
+
+
 
 [출처]
 - https://catalog.us-east-1.prod.workshops.aws/workshops/9c0aa9ab-90a9-44a6-abe1-8dff360ae428/ko-KR

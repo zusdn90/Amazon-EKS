@@ -16,6 +16,13 @@
 - 인그레스는 외부 요청 처리에 대한 규칙들을 설정해놓은 것을 의미하며, 이런 설정이 동작하기 위해서 필요한 것이 인그레스 컨트롤러라고 한다. 
 - kube-controller-manager의 일부로 실행되는 다른 컨트롤러와 달리 인그레스 컨트롤러는 클러스터와 함께 생성되진 않아서 직접 구현해야 한다.
 
+[Auto Scalling]
+- 쿠버네티스에는 크게 두 가지의 오토 스케일링 기능이 있다.
+- HPA(Horizontal Pod AutoScaler), Cluster Autoscaler
+- HPA는 CPU 사용량 또는 사용자 정의 메트릭을 관찰하여 파드 개수를 자동으로 스케일한다. 
+- 그러나 해당 파드가 올라가는 EKS 클러스터 자체 자원이 모자라게 되는 경우, Cluster Autoscaler를 고려해야 한다.
+- HPA 스케일 작업 흐름
+
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/15190903/171775325-397e4eba-c0e4-4d50-9412-5bf4ab73877c.png">
 
 

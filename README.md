@@ -13,6 +13,8 @@
 - 한마디로 외부의 요청이 내부로 접근하기 위한 관문 역할.
 - 외부 요청에 대한 로드 밸런싱, TLS/SSL 인증서 처리, HTTP 경로에 대한 라우팅 등을 설정할 수 있다. 
 - 인그레스는 L7 영역의 요청을 처리합니다.
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/15190903/171775325-397e4eba-c0e4-4d50-9412-5bf4ab73877c.png">
+
 
 
 # Amazon-EKS

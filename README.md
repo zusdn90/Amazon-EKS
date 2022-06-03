@@ -37,9 +37,6 @@
 7. AWS Fargate로 서비스 올리기
 8. CI/CD 파이프라인 구축
 
-# 아키텍처
-<img width="971" alt="image" src="https://user-images.githubusercontent.com/15190903/171778386-f0d0205c-99af-488f-b4a1-b658173bfcae.png">
-
 
 # 배포 프로세스
 <img width="785" alt="image" src="https://user-images.githubusercontent.com/15190903/171777815-ca5c2852-f3c4-4d5b-a4e2-c1c4f2c271d1.png">
@@ -50,6 +47,9 @@
 4. 각 서비스에 대한 Deployment, Service, Ingress 매니페스트 파일 생성 및 배포
 5. 사용자가 실제 서비스에 접근하는 순서
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/15190903/171777891-e0499c5c-91cb-40a4-8ea7-7427d810526f.png">
+
+# 아키텍처
+<img width="980" alt="image" src="https://user-images.githubusercontent.com/15190903/171788044-17e6ad76-9b59-44db-ab2e-bd4c22e94cea.png">
 
 
 

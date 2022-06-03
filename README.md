@@ -1,5 +1,6 @@
 # Amazon-EKS
-Amazon EKS로 웹 애플리케이션 구축하기
+- Kubernetes를 쉽게 실행할 수 있는 관리형 서비스.
+- Amazon EKS를 사용하시면 AWS 환경에서 Kubernetes 컨트롤 플레인 또는 노드를 직접 설치, 운영 및 유지할 필요가 없다.
 
 # 작업순서
 1. AWS Cloud9을 통한 실습 환경 구축

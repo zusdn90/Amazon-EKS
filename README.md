@@ -38,7 +38,7 @@
 8. CI/CD 파이프라인 구축
 
 # 아키텍처
-<img width="978" alt="image" src="https://user-images.githubusercontent.com/15190903/171774434-f79fc71c-d193-4389-ad59-8ea8b3a58b37.png">
+<img width="971" alt="image" src="https://user-images.githubusercontent.com/15190903/171778386-f0d0205c-99af-488f-b4a1-b658173bfcae.png">
 
 
 # 배포 프로세스

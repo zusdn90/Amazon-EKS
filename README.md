@@ -25,3 +25,7 @@
 6. 파드 및 클러스터 오토 스케일링
 7. AWS Fargate로 서비스 올리기
 8. CI/CD 파이프라인 구축
+
+
+[출처]
+- https://catalog.us-east-1.prod.workshops.aws/workshops/9c0aa9ab-90a9-44a6-abe1-8dff360ae428/ko-KR

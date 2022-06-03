@@ -1,4 +1,4 @@
-# Kubernetes를
+# Kubernetes
 
 <img width="984" alt="image" src="https://user-images.githubusercontent.com/15190903/171772520-ce3c67fe-bc58-44f8-89fa-ddf31b119e90.png">
 

@@ -43,12 +43,12 @@
 
 # 배포 프로세스
 <img width="785" alt="image" src="https://user-images.githubusercontent.com/15190903/171777815-ca5c2852-f3c4-4d5b-a4e2-c1c4f2c271d1.png">
+
 1. 소스 코드 다운로드
 2. Amazon ECR에 각 서비스에 대한 리포지토리 생성
 3. Dockerfile을 포함한 소스 코드 위치에서 컨테이너 이미지 빌드 후, 리포지토리에 푸시
 4. 각 서비스에 대한 Deployment, Service, Ingress 매니페스트 파일 생성 및 배포
-
-- 사용자가 실제 서비스에 접근하는 순서
+5. 사용자가 실제 서비스에 접근하는 순서
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/15190903/171777891-e0499c5c-91cb-40a4-8ea7-7427d810526f.png">
 
 

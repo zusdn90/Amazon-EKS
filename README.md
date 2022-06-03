@@ -22,6 +22,8 @@
 - HPA는 CPU 사용량 또는 사용자 정의 메트릭을 관찰하여 파드 개수를 자동으로 스케일한다. 
 - 그러나 해당 파드가 올라가는 EKS 클러스터 자체 자원이 모자라게 되는 경우, Cluster Autoscaler를 고려해야 한다.
 - HPA 스케일 작업 흐름
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/15190903/171792881-ed15789c-9080-4f8e-b50a-9a13e610a964.png">
+
 
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/15190903/171775325-397e4eba-c0e4-4d50-9412-5bf4ab73877c.png">
 
